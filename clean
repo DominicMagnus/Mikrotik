@@ -1,0 +1,7 @@
+Terminal history
+console clear-history
+Log history
+system logging action set memory memory-lines=1;
+system logging action set memory memory-lines=1000;
+
+system history section. You can erase it with systems reboot.
